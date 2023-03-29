@@ -19,9 +19,14 @@
   background-color: var(--color-two);
 }
 
+html {
+  /* overflow-x: hidden; */
+}
+
 body {
   font-family: var(--font);
   color: var(--color-text-one);
+  /* overflow-x: hidden; */
 }
 
 a {
